@@ -11,7 +11,7 @@ Este repositório reúne a **lista completa dos 55 estudos primários** que comp
 
 | Etapa | Estudos |
 |---|:---:|
-| Registros recuperados no Scopus (string final, 09/06/2026) | 843 |
+| Registros recuperados no Scopus (string final, 06/06/2026) | 843 |
 | Após filtros (ano, tipo de documento, idioma) | 781 |
 | Após remoção de duplicatas | 749 |
 | Após triagem por título e resumo | 222 |
